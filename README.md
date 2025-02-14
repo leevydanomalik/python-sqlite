@@ -1,2 +1,0 @@
-# python-sqlite
-TU POC
